@@ -2,4 +2,4 @@
 
 ### Демонстрация работы 
 
-https://github.com/svyatoslavlipatov/MobileDevelopment/assets/92099105/d7906901-f577-4d08-9ccf-1bf45631ba94
+https://github.com/svyatoslavlipatov/MobileDevelopment/assets/92099105/4b18e9b2-8799-407a-90b1-1fa4ff610813
